@@ -1,7 +1,7 @@
 /**
  * Autor: Joao Candiani
  * Data de Criação: 06/12/2023
- * Versão: 1.0
+ * Versão: 2.0
  *
  * A classe calculadora contém métodos para realizar operações matemáticas simples,
  * como soma, subtração, multiplicação e divisão.
